@@ -2,7 +2,7 @@
 
 This is a collection of my posts to Tumblr from April 2009 until the present.  The backup of my Tumblr posts was created using [tumblr-utils](https://github.com/bbolli/tumblr-utils/) by [Beat Bolli](https://github.com/bbolli/). 
 
-Even after the Yahoo aquisition of Tumblr I personally believe the platform has a bright future ahead, and I will continue to actively post on Tumblr. I am going to keep this archive up to date in an effor to keep as much of my personal data open on Github as possible.
+Even after the Yahoo aquisition of Tumblr I personally believe the platform has a bright future ahead, and I will continue to actively post on Tumblr. I am going to keep this archive up to date in an effort to keep as much of my personal data open on Github as possible.
 
 ## Using `tumblr_backup.py`
 
